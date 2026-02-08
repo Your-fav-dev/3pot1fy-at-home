@@ -1,0 +1,26 @@
+{
+  "name": "3pot1fy-at-home",
+  "version": "0.1.0",
+  "description": "Sailing the high sea with musics in your ears ",
+  "keywords": [
+    "3pot1fy"
+  ],
+  "homepage": "https://github.com/Your-fav-dev/3pot1fy-at-home#readme",
+  "bugs": {
+    "url": "https://github.com/Your-fav-dev/3pot1fy-at-home/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-fav-dev/3pot1fy-at-home.git"
+  },
+  "license": "ISC",
+  "author": "your-fav-dev",
+  "type": "nodejs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
